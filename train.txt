@@ -1,0 +1,2 @@
+Login failed: incorrect password. Reason: Wrong password. Suggestion: Reset password.
+Login failed: account locked. Reason: Account locked. Suggestion: Contact support.
